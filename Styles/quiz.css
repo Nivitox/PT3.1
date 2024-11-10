@@ -346,7 +346,7 @@ button:hover {
     bottom: 20px; /* Ajusta según sea necesario */
     right: 20px; /* Ajusta según sea necesario */
     display: none; /* Inicialmente oculto */
-    background-color: var(--xIndigo); /* Color de fondo */
+    background-color: var(--xCorrect); /* Color de fondo */
     border-radius: 10px; /* Bordes redondeados */
     padding: 0.75rem 1rem; /* Espaciado */
     cursor: pointer; /* Cambia el cursor al pasar por encima */
